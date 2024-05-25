@@ -37,7 +37,7 @@ todo-app/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/FrostyFeet-coder/todo-app.git
    cd todo-app
 Install backend dependencies:
 cd backend
